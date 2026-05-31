@@ -34,6 +34,7 @@ Figma
 
 ## CODE:
 ```html
+<!-- HTML + CSS + JavaScript -->
 FRAME 1:
 index.html
 
