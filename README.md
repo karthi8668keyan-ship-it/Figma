@@ -33,7 +33,7 @@ Publish the website in the given URL.
 Figma
 
 ## CODE:
-```html
+```css
 <!-- HTML + CSS + JavaScript -->
 FRAME 1:
 index.html
